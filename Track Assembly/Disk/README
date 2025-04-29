@@ -1,0 +1,24 @@
+# Custom Treadmill Assembly Documentation
+
+This repository contains all necessary resources for assembling the custom disk, including:
+
+- CAD drawings and schematics for custom parts
+- Comprehensive bill of materials (BOM)
+- Assembly instructions and notes
+- 3D printed part files (STL)
+
+## Folder Structure & Available Documentation
+- `/Drawings` : CAD drawings and technical schematics for custom parts
+- **Parts List**: Comprehensive bill of materials (BOM) available as a GitHub document
+- **Assembly Guide**: Step-by-step assembly instructions available as a GitHub document
+
+## Overview
+The disk design incorporates custom-designed parts, standard mechanical components.  
+It is intended for precise and stable operation.
+
+### Important Notes
+- Custom parts (Acrylic Plate) require reference to the provided technical drawings for correct fabrication.
+- Ensure all components are assembled according to the provided guide to maintain structural integrity and mechanical alignment.
+
+## License
+This project is released for research and educational purposes. Please cite or credit appropriately when adapting or building upon this design.
