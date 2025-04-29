@@ -1,0 +1,28 @@
+# Custom Treadmill Assembly Documentation
+
+This repository contains all necessary resources for assembling the custom treadmill, including:
+
+- CAD drawings and schematics for custom parts
+- Comprehensive bill of materials (BOM)
+- Assembly instructions and notes
+- 3D printed part files (STL)
+
+## Folder Structure
+- `/Drawings` : CAD drawings and technical schematics for custom parts
+- `/3D_Print_Files` : STL files for custom 3D printed components
+
+## Available Documentation
+- **Parts List**: Comprehensive bill of materials (BOM) available as a GitHub document
+- **Assembly Guide**: Step-by-step assembly instructions available as a GitHub document
+
+## Overview
+The treadmill design incorporates custom-machined parts, standard mechanical components, and 3D printed accessories.  
+It is intended for precise and stable operation, with optional configurations for additional modules such as waste management systems.
+
+### Important Notes
+- Custom parts (rods, pulleys, belts) require reference to the provided technical drawings for correct fabrication.
+- Optional parts for feces removal installation are clearly marked in the BOM.
+- Ensure all components are assembled according to the provided guide to maintain structural integrity and mechanical alignment.
+
+## License
+This project is released for research and educational purposes. Please cite or credit appropriately when adapting or building upon this design.
