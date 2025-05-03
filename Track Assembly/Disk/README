@@ -8,7 +8,7 @@ This repository contains all necessary resources for assembling the custom disk,
 
 ## Folder Structure & Available Documentation
 - `/Drawings` : CAD drawings and technical schematics for custom parts
-- **Parts List**: Comprehensive bill of materials (BOM) available as a GitHub document
+- **Parts List**: Parts list for assembly available as a GitHub document
 - **Assembly Guide**: Step-by-step assembly instructions available as a GitHub document
 
 ## Overview
