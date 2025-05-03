@@ -1,0 +1,33 @@
+# MATLAB Code
+
+This folder contains all MATLAB scripts and functions used in the analysis:
+
+---
+
+## Requirements
+
+- **MATLAB** R2021a or later
+- Signal Processing Toolbox
+- Image Processing Toolbox
+- (Optional) Parallel Computing Toolbox
+- (Optional) Statistics and Machine Learning Toolbox
+
+Some scripts may require additional open-source toolboxes provided in the `external/` folder.
+> Detailed comments are included within each script to guide the user through each step.
+
+- This code was developed and tested using mouse cortical calcium imaging data acquired during treadmill/wheel/disk locomotion.
+
+---
+
+## Contact
+
+For questions or issues regarding the code, please contact:
+- lch199912@dgist.ac.kr
+- Neural Dynamics Lab / Daegu Gyeongbuk Institute of Science and Technology
+
+---
+
+## License
+
+This code is provided for academic and non-commercial use only.  
+For reuse or distribution, please cite the original paper.
