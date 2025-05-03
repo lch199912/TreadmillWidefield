@@ -7,8 +7,7 @@ This repository contains all necessary resources for assembling the custom tread
 - 3D printed part files (STL)
 
 ## Folder Structure
-- `/Drawings` : CAD drawings and technical schematics for custom parts
-- `/3D_Print_Files` : STL files for custom 3D printed components
+- `/Drawings` : CAD drawings for custom components and STL files for custom 3D printed components
 
 ## Available Documentation
 - **Parts List**: Parts list for assembly available as a GitHub document
