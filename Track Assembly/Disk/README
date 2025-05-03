@@ -6,8 +6,8 @@ This repository contains all necessary resources for assembling the custom disk,
 - Assembly instructions and notes
 - 3D printed part files (STL)
 
-## Folder Structure & Available Documentation
-- `/Drawings` : CAD drawings and technical schematics for custom parts
+## Available Documentation
+- **Drawings**: CAD drawings for custom parts
 - **Parts List**: Parts list for assembly available as a GitHub document
 - **Assembly Guide**: Step-by-step assembly instructions available as a GitHub document
 
